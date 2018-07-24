@@ -20,9 +20,14 @@ public class Centling {
 		System.out.println("bbbbbbbbbbbbbbbbbbbb");
 
 		System.out.println("这是测试方法55555");
+
 		
 		System.out.println("dddddddddddddd");
 
+		System.out.println("cccccccccccccccccccccc");
+
+
 	}
+	
 
 }
