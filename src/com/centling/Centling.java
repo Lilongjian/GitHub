@@ -6,6 +6,7 @@ public class Centling {
 	}
 	public void name12() {
 		System.out.println("这是测试的方法");
+		System.out.println("这是测试的方法3333");
 	}
 
 }
