@@ -16,6 +16,8 @@ public class Centling {
 
 		
 		System.out.println("8888888888888888");
+		
+		System.out.println("bbbbbbbbbbbbbbbbbbbb");
 
 
 		System.out.println("这是测试方法55555");
