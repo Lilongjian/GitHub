@@ -8,7 +8,11 @@ public class Centling {
 		System.out.println("这是测试的方法");
 		System.out.println("这是测试的方法3333");
 		System.out.println("这是测试方法44444");
+
 		System.out.println("66666666666666666666666666");
+
+		System.out.println("这是测试方法55555");
+
 	}
 
 }
